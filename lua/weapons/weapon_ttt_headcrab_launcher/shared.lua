@@ -15,8 +15,6 @@ if CLIENT then
 	};
 
 	SWEP.Icon = "vgui/ttt/icon_z_headcrab_launcher"
-else
-	resource.AddFile("materials/vgui/ttt/icon_z_headcrab_launcher.vmt")
 end
 
 SWEP.Base = "weapon_tttbase"
@@ -132,4 +130,3 @@ if CLIENT then
 		return self.BaseClass.Initialize(self)
 	end
 end
-
