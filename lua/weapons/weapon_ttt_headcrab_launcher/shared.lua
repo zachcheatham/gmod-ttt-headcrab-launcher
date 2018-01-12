@@ -14,7 +14,7 @@ if CLIENT then
 		desc = "Causes a headcrab canister to rain down upon the inncoents.\n\nRequires the sky to be visible!"
 	};
 
-	SWEP.Icon = "vgui/ttt/icon_z_headcrab_launcher"
+	SWEP.Icon = "vgui/ttt/icon_eis_headcrab_launcher"
 end
 
 SWEP.Base = "weapon_tttbase"
